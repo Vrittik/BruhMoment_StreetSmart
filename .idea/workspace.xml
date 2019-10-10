@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8837ceb-1533-48aa-ae27-970d7b057836" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/GoClean/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/css/loginstyles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/css/overright.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/css/space.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/css/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/css/themify-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/fonts/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/GoClean.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/mobile2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/screen/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-icons/coins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-icons/leaderboard-boarder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-icons/levels-border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-icons/multiplier-border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-icons/rewards-border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-icons/rewards.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-icons/steps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-icons/user-border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-1-5x-outdoors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-bazaar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-coins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-friends.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-invite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-leaderboard-friends.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-level-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-level-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-level-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-level-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/ssg-screenshots/screenshot-profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/images/steps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/ajaxchimp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/contact-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/scrollUp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/spectragram.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/vendor/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/vendor/jquery-1.12.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/vendor/modernizr-2.8.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoClean/style.css" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Trash_dataset" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GoClean/FireBase_authentication.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FireBase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-799">
+              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/gulab ki garmi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gmplot/gmplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-470">
+              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-60625159/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3770">
+              <caret line="5556" column="6" selection-start-line="5556" selection-start-column="6" selection-end-line="5556" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GoClean" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FireBase_authentication.py" />
+        <option value="$PROJECT_DIR$/GoClean/FireBase_authentication.py" />
+        <option value="$PROJECT_DIR$/templates/gulab ki garmi.html" />
+        <option value="$PROJECT_DIR$/FireBase.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="946" />
+    <option name="y" value="12" />
+    <option name="width" value="814" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Trash_dataset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trash_dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Trash_dataset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trash_dataset" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8837ceb-1533-48aa-ae27-970d7b057836" name="Default Changelist" comment="" />
+      <created>1570623055746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570623055746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.17437252" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" visible="true" weight="0.17437252" />
+      <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.17437252" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.17437252" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.17437252" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FireBase_authentication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoClean/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoClean/css/loginstyles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoClean/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-60625159/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3770">
+          <caret line="5556" column="6" selection-start-line="5556" selection-start-column="6" selection-end-line="5556" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gulab ki garmi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoClean/FireBase_authentication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/garbage-in-delhi_1484115630.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/gmplot/gmplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-470">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gulab ki garmi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FireBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
